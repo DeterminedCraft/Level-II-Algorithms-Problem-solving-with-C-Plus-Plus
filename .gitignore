@@ -1,0 +1,39 @@
+# Visual Studio build files
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug*/
+Release*/
+x64/
+x86/
+ipch/
+
+# Output files
+*.exe
+*.dll
+*.pdb
+*.idb
+*.ilk
+*.log
+
+# Backup & temporary files
+*.tmp
+*.bak
+*.cache
+*.ncb
+*.opendb
+*.sdf
+*.tlog
+
+# Others
+*.class
+*.pyc
+*.vspscc
